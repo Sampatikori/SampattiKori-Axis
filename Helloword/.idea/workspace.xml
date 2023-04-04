@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34c76ad3-cff8-45e9-891f-dbc88682cd58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdditionOfTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckPrimeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/ArrayListExercises/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/ArrayListExercises/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/ArrayListExercises/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Map/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Map/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Map/MapEmployeeAndManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Map/MapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Set/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/StudentListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/StudentObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionList/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/CustomDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/DateAfter2Weeks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/DateConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/DateFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/EmpExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFunction/StringToDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DisplayElInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOddElementsOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamplePassObjectAsAParameter/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamplePassObjectAsAParameter/ResultCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamplePassObjectAsAParameter/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/CalculatorSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ClassCasteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ContractBasedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/InvalidCountryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/InvalidSalaryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/MainForCandidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/RegularEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/InheritanceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Trainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GradeExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/ShapeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inherit/TwoDDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileOutputStream/BufferedReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileOutputStream/FileOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileOutputStream/FileReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/FileWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputFileStream/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/MotorisedVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/PublicTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercise2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercises/AdultUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercises/KidUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercises/LibraryInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExercises/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/Circledemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/InterfaceDemoWithCircleNdSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/MotorizedVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/PublicTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/RectangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/SquareDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/TriangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceNdAbstract/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/CalculatorUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lamda/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lamda/ClassImpleInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lamda/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargElemetInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestOf5Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Package1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Package1/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Package2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Package2/ClassD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseOfANum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseOfPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchForElemtInarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeasonExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/ArrayStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/ArrayStream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringConstructDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringUsingScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Exercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Exercise/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDimenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/InterfaceNdAbstract/Vehicle.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N2enhNkfLNyj2gRayAsb246xpR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CollectionList" />
+      <recent name="Exception" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajkumar\IdeaProjects\Helloword\src\Inheritence" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="InterfaceNdAbstract" />
+      <recent name="Inheritence" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&quot;?&quot;" />
+      <command value="ArrayListExample" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="ArrayStream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.ArrayStream2" />
+      <module name="Helloword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCalculator" />
+      <module name="Helloword" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Helloword" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.CalculatorUsingLambda" />
+      <module name="Helloword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthLargestNumber" />
+      <module name="Helloword" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.BasicCalculator" />
+        <item itemvalue="Application.KthLargestNumber" />
+        <item itemvalue="Application.CalculatorUsingLambda" />
+        <item itemvalue="Application.ArrayStream2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c76ad3-cff8-45e9-891f-dbc88682cd58" name="Changes" comment="" />
+      <created>1678866804789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678866804789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise3/InheritanceActivity.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/StaticDemo.java</url>
+          <line>2</line>
+          <properties field="y" class="StaticDemo" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Helloword$DisplayElInArray.ic" NAME="DisplayElInArray Coverage Results" MODIFIED="1678959810394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Helloword$StringMethodDemo.ic" NAME="StringMethodDemo Coverage Results" MODIFIED="1679394437968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Helloword$StringConstructDemo.ic" NAME="StringConstructDemo Coverage Results" MODIFIED="1679392359668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
